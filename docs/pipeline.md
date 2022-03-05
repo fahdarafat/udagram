@@ -6,7 +6,8 @@
 - Install frontend dependencies ==> Build project ==> Deploy to s3
 - Install backend dependencies ==> Build backend ==> pass environment variables from CircleCi to EB ==> Deploy to EB.
 ![](../screenshots/configyml.png)
-![](../screenshots/lastbuild.png)
+![](../screenshots/lastbuild-1.png)
+![](../screenshots/lastbuild-2.png)
 ![](../screenshots/circleci.png)
 ![](../screenshots/circleci-env.png)
 
