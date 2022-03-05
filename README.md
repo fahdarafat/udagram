@@ -16,4 +16,5 @@
 
 
 ![](screenshots/diagram.png)
+![](screenshots/pipeline-diagram.png)
 ![](screenshots/circleci-history.png)
